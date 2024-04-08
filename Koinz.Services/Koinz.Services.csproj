@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Koinz.Common\Koinz.Common.csproj" />
+    <ProjectReference Include="..\Koinz.DataProvider.EFCore\Koinz.DataProvider.EFCore.csproj" />
+    <ProjectReference Include="..\Koinz.Interfaces\Koinz.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

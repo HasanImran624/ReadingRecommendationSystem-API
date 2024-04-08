@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koinz_Assignment", "Koinz_Assignment\Koinz_Assignment.csproj", "{B276B8E8-0E15-4998-BE12-1BC56E7D8548}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koinz.DataProvider.EFCore", "Koinz.DataProvider.EFCore\Koinz.DataProvider.EFCore.csproj", "{760A0730-935A-4B3F-831B-F6B7DF5C6CFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koinz.Common", "Koinz.Common\Koinz.Common.csproj", "{3D746673-1726-4D44-9EF1-B327A6D0E943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koinz.Model", "Koinz.Model\Koinz.Model.csproj", "{74D901A3-C234-464A-8CAC-07FC69D39DCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koinz.Services", "Koinz.Services\Koinz.Services.csproj", "{C235AFFE-9F0E-404A-9B1B-38087328EF89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koinz.Interfaces", "Koinz.Interfaces\Koinz.Interfaces.csproj", "{E0EDBDEC-27AA-4B8D-BC6C-FE742D868DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B276B8E8-0E15-4998-BE12-1BC56E7D8548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B276B8E8-0E15-4998-BE12-1BC56E7D8548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B276B8E8-0E15-4998-BE12-1BC56E7D8548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B276B8E8-0E15-4998-BE12-1BC56E7D8548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760A0730-935A-4B3F-831B-F6B7DF5C6CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760A0730-935A-4B3F-831B-F6B7DF5C6CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760A0730-935A-4B3F-831B-F6B7DF5C6CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760A0730-935A-4B3F-831B-F6B7DF5C6CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D746673-1726-4D44-9EF1-B327A6D0E943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D746673-1726-4D44-9EF1-B327A6D0E943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D746673-1726-4D44-9EF1-B327A6D0E943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D746673-1726-4D44-9EF1-B327A6D0E943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D901A3-C234-464A-8CAC-07FC69D39DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D901A3-C234-464A-8CAC-07FC69D39DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D901A3-C234-464A-8CAC-07FC69D39DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D901A3-C234-464A-8CAC-07FC69D39DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C235AFFE-9F0E-404A-9B1B-38087328EF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C235AFFE-9F0E-404A-9B1B-38087328EF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C235AFFE-9F0E-404A-9B1B-38087328EF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C235AFFE-9F0E-404A-9B1B-38087328EF89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0EDBDEC-27AA-4B8D-BC6C-FE742D868DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0EDBDEC-27AA-4B8D-BC6C-FE742D868DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0EDBDEC-27AA-4B8D-BC6C-FE742D868DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0EDBDEC-27AA-4B8D-BC6C-FE742D868DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B2DCC50-1363-46FA-9A40-5AFC85A16B17}
+	EndGlobalSection
+EndGlobal
